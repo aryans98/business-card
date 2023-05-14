@@ -1,2 +1,2 @@
-## business-card
-# created a personal business card using HTML and CSS
+# Business-card
+## created a basic personal business card using HTML and CSS.
